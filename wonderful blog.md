@@ -3,4 +3,4 @@
 机器学习类：  
     [一数一世界](https://bourneli.github.io)      
     [刘建平Pinard](https://www.cnblogs.com/pinard/)  
-    
+    [数学系的数据挖掘民工](https://www.cnblogs.com/charlotte77/)(上面还有知乎等的链接)
